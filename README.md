@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Selim 👋
 
-<!--
-**ahmedselim0/ahmedselim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Biomedical Engineer | AI & Machine Learning Developer
 
-Here are some ideas to get you started:
+I am a Biomedical Engineering student/professional passionate about bridging the gap between healthcare technology and Artificial Intelligence. My primary focus lies in leveraging Machine Learning and software development to solve complex biomedical and engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Core Competencies
+
+* **Programming Languages:** Python, C++
+* **Domains & Interests:** Biomedical Engineering, Artificial Intelligence, Machine Learning
+
+---
+
+## 🚀 Projects
+
+* 🚧 *Projects coming soon... Stay tuned!*
+
+---
+
+## 📫 Connect with Me
+
+* **Email:** [ahmdselim789@example.com]

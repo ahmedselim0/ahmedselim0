@@ -8,7 +8,7 @@
 <circle cx="36" cy="34" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/></circle>
 <text x="50" y="39" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#7dd3c8" letter-spacing="3">LIVE  //  BME PROFILE MONITOR</text>
 <text x="36" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="2">AHMED SELIM</text>
-<text x="38" y="145" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#00e5c3" letter-spacing="3">BIOMEDICAL ENGINEER  //  ML  //  PYTHON</text>
+<text x="38" y="145" font-family="'Courier New',Consolas,monospace" font-size="17" fill="#00e5c3" letter-spacing="3">BIOMEDICAL ENGINEER  //  BIOSIGNALS  //  PYTHON</text>
 <g transform="translate(0 200)">
  <path d="M0 0 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71" fill="none" stroke="#00e5c3" stroke-opacity=".18" stroke-width="2"/>
  <path d="M0 0 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71 h50 q8 -10 16 0 h10 l3 4 l6 -44 l6 56 l4 -16 h14 q10 -16 20 0 h71" pathLength="1000" fill="none" stroke="url(#tr)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="230 770">

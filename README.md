@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00E5C3&center=true&vCenter=true&width=720&height=48&lines=Engineering+the+future+of+medicine+%F0%9F%A9%BA;Turning+biosignals+into+insights+%F0%9F%AB%80;Where+engineering+meets+medicine+%F0%9F%A7%A0;Building+Python+apps+for+healthcare+%F0%9F%90%8D" alt="typing"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedselim0&label=Patients+seen&color=ef4444&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/ahmedselim0?label=Followers&style=flat-square&color=3b82f6" alt="followers"/>
-
 </div>
 
 ---
@@ -17,7 +14,7 @@
 
 <table>
 <tr><td><b>🧑‍⚕️ Name</b></td><td>Ahmed Selim</td></tr>
-<tr><td><b>🏥 Department</b></td><td>Biomedical Engineering (student)</td></tr>
+<tr><td><b>🏥 Department</b></td><td>Biomedical Engineering</td></tr>
 <tr><td><b>🩺 Chief complaint</b></td><td>Can't stop thinking about biosignals, medical devices and Python</td></tr>
 <tr><td><b>🔬 Diagnosis</b></td><td>Chronic curiosity. Prognosis: excellent</td></tr>
 <tr><td><b>💊 Current treatment</b></td><td>Building, learning, shipping</td></tr>
